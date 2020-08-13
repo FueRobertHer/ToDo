@@ -3,13 +3,3 @@
   justify-content: space-around;
   align-items: flex-start;
 }
-
-.undo {
-  height: fit-content;
-  width: fit-content;
-}
-
-.col {
-  margin: 10px;
-  padding: 5px;
-}
